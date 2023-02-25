@@ -6,6 +6,13 @@ Hoping to be a triliguist
 My email: chouyuduki@gmail.com  
 the profile image is Sion, from minori's game Eden*
 
+現在、コンピュータサイエンスを専攻し、
+英語と日本語を勉強中です  
+三か国語話者になることを目指しています  
+連絡先：  
+メール：chouyuduki@gmail.com  
+プロフィール名はシオンで、minoriのゲーム『eden*』から来ました  
+
 <!--
 **ChouYuduki/ChouYuduki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
