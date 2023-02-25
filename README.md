@@ -1,10 +1,9 @@
 ### Hi there 👋 I am Yuzuki Saka  
 major in computer science now  
-#### 🌱 I’m currently learning English and Japanese  
+🌱 I’m currently learning English and Japanese  
 Hoping to be a triliguist  
-#### 📫 How to reach me:  
+📫 How to reach me:  
 My email: chouyuduki@gmail.com  
-  
 the profile is Sion, from minori's game Eden*
 
 <!--
