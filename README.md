@@ -11,7 +11,7 @@ the profile image is Sion, from minori's game Eden*
 三か国語話者になることを目指しています  
 連絡先：  
 メール：chouyuduki@gmail.com  
-プロフィール名はシオンで、minoriのゲーム『eden*』から来ました  
+プロファイル画像はシオンで、minoriのゲーム『eden*』から来ました  
 
 <!--
 **ChouYuduki/ChouYuduki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
