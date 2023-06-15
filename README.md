@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Yuzuki Saka  
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)  
 major in computer science now  
 🌱 Currently learning English and Japanese  
 Hoping to be a triliguist  
