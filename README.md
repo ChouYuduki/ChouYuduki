@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Yuzuki Saka  
 ![Rule34](https://count.getloli.com/get/@ChouYuduki.github.readme?theme=rule34)   
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)  
+
 major in computer science now  
 🌱 Currently learning English and Japanese  
 Hoping to be a triliguist  
