@@ -1,5 +1,4 @@
 ### Hi there 👋 I am Yuzuki Saka  
-![Rule34](https://count.getloli.com/get/@ChouYuduki.github.readme?theme=rule34)   
 
 [![image](https://api.bento.me/v1/og/saka)
 ](https://bento.me/saka)  
@@ -11,6 +10,7 @@
 
 the profile image is Lain, from anime *Serial Experiments Lain*   
 
+![Rule34](https://count.getloli.com/get/@ChouYuduki.github.readme?theme=rule34)   
 
 <!--
 **ChouYuduki/ChouYuduki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
