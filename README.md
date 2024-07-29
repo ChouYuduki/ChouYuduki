@@ -4,9 +4,8 @@
 ](https://bento.me/saka)  
 👆 Click to My Frontpage  
 - My [Blog](https://chouyuduki.github.io/)  
-- major in computer science now  
-- 🌱 Currently learning English and Japanese  
-- Hoping to be a triliguist   
+- Living in Fukuoka, Japan  
+   
 
 the profile image is Lain, from anime *Serial Experiments Lain*   
 
