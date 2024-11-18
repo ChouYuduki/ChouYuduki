@@ -1,13 +1,6 @@
 ### Hi there 👋 I am Yuzuki Saka  
 
-[![image](https://api.bento.me/v1/og/saka)
-](https://bento.me/saka)  
-👆 Click to My Frontpage  
-- My [Blog](https://chouyuduki.github.io/)  
-- Living in Fukuoka, Japan  
-   
-
-the profile image is Lain, from anime *Serial Experiments Lain*   
+# 404
 
 ![Rule34](https://count.getloli.com/get/@ChouYuduki.github.readme?theme=rule34)   
 
