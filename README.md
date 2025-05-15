@@ -9,8 +9,9 @@
 - 📫 How to reach me [**chouyuduki@gmail.com**](mailto:chouyuduki@gmail.com)  
 &nbsp;<br>
 &nbsp;<br>
+ 
 
-![Rule34](https://count.getloli.com/get/@ChouYuduki.github.readme?theme=rule34)   
+![pcb](pcb.jpg)
 
 <!--
 **ChouYuduki/ChouYuduki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
