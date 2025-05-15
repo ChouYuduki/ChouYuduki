@@ -4,8 +4,8 @@
 - 💬 English & 日本語 are available.
 - 🔭 Researching on Style Transfering & Gaussian Splatting
 - 📫 How to reach me [**chouyuduki@gmail.com**](mailto:chouyuduki@gmail.com)
-
-  
+　　　
+　　　　  
 ![Rule34](https://count.getloli.com/get/@ChouYuduki.github.readme?theme=rule34)   
 
 <!--
