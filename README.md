@@ -6,12 +6,14 @@
 - 🏫 大学院生 at the [**九大芸術工学**](https://www.design.kyushu-u.ac.jp/) of the [**Kyushu University**](https://www.kyushu-u.ac.jp/ja/)
 - 💬 English & 日本語 are available.
 - 🔭 Researching on Style Transfering & Gaussian Splatting
+- 💻 Mac & Ubuntu
 - 📫 How to reach me [**chouyuduki@gmail.com**](mailto:chouyuduki@gmail.com)  
 &nbsp;<br>
 &nbsp;<br>
- 
+
 
 ![pcb](pcb.jpg)
+
 
 <!--
 **ChouYuduki/ChouYuduki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
