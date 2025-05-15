@@ -5,7 +5,7 @@
 
 - 🏫 大学院生 at the [**九大芸術工学**](https://www.design.kyushu-u.ac.jp/) of the [**Kyushu University**](https://www.kyushu-u.ac.jp/ja/)
 - 💬 English & 日本語 are available.
-- 🔭 Researching on [Style Transfering](https://en.wikipedia.org/wiki/Neural_style_transfer) & [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting)
+- 🔭 Researching on [**Style Transfering**](https://en.wikipedia.org/wiki/Neural_style_transfer) & [**Gaussian Splatting**](https://github.com/graphdeco-inria/gaussian-splatting)
 - 💻 Mac & Ubuntu
 - 📫 How to reach me [**chouyuduki@gmail.com**](mailto:chouyuduki@gmail.com)  
 &nbsp;<br>
