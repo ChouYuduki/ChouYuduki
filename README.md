@@ -7,7 +7,8 @@
 - 💬 English & 日本語 are available.
 - 🔭 Researching on [**Style Transfering**](https://en.wikipedia.org/wiki/Neural_style_transfer) & [**Gaussian Splatting**](https://github.com/graphdeco-inria/gaussian-splatting)
 - 💻 Mac & Ubuntu
-- 📫 How to reach me [**chouyuduki@gmail.com**](mailto:chouyuduki@gmail.com)  
+- 📫 How to reach me [**chouyuduki@gmail.com**](mailto:chouyuduki@gmail.com)
+- [**My HomePage**](https://chouyuduki.github.io/)
 &nbsp;<br>
 &nbsp;<br>
 
