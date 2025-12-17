@@ -4,7 +4,7 @@
 </div>
 
 - 🏫 大学院生 at the [**九大芸術工学**](https://www.design.kyushu-u.ac.jp/) of the [**Kyushu University**](https://www.kyushu-u.ac.jp/ja/) & 卒業した学部 [**上海大学情報システム部**](http://cs.shu.edu.cn.)
-- 💬 English & 日本語 are available.
+- 💬 English & 日本語 & Traditional Chinese are available.
 - 🔭 Researching on [**Style Transfering**](https://en.wikipedia.org/wiki/Neural_style_transfer) & [**Gaussian Splatting**](https://github.com/graphdeco-inria/gaussian-splatting)
 - 💻 Mac & Linux (I use Arch btw XD)  
 - 📫 How to reach me [**chouyuduki@gmail.com**](mailto:chouyuduki@gmail.com)
