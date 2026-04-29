@@ -8,7 +8,7 @@
 - 🔭 Researching on [**Gaussian Splatting**](https://github.com/graphdeco-inria/gaussian-splatting)
 - 💻 Mac & Linux
 - 📫 How to reach me [**chouyuduki@gmail.com**](mailto:chouyuduki@gmail.com)
-- [**My Blog**](https://chouyuduki.github.io/)
+- [**個人ブログ｜My Blog**](https://chouyuduki.github.io/)
 &nbsp;<br>
 &nbsp;<br>
 
